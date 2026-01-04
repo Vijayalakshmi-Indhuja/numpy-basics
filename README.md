@@ -46,7 +46,7 @@ This notebook demonstrates **why NumPy is faster than Python lists** using perfo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/numpy-basics.git
+   git clone https://github.com/Vijayalakshmi-Indhuja/numpy-basics.git
    
 2. Open Anaconda Navigator → Launch Jupyter Notebook
 
