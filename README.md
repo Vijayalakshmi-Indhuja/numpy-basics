@@ -56,7 +56,7 @@ This notebook demonstrates **why NumPy is faster than Python lists** using perfo
 
 4. Run cells sequentially using:
 
-  Shift + Enter
+        Shift + Enter
   
 ## 🎯 Learning Outcome
 
